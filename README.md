@@ -1,5 +1,5 @@
 # Event-management demo site
-## live-link: http://event-manager-a7355.web.app/
+## live-link: [http://event-manager-a7355.web.app/](https://love-and-wedding-demo-site.vercel.app)
 ## Questions:
 
 ### Q-1: Add at least 5 Project features
